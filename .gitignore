@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Implementations/Mono/Biomaneace_remake_mono/.vs/Biomaneace_remake_mono
